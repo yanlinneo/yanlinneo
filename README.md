@@ -11,6 +11,6 @@ I am a backend developer in Singapore 🇸🇬. I used to work on web applicatio
 
 ## Newest Project
 #### HTML Link Parser
-- written in Go
+- Written in Go
 - The aim was to extract outer anchor links from a HTML page... but I keep adding new features to it.
 - Currently, it also accesses all relative paths on the site to ensure they are accessible!
